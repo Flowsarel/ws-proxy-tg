@@ -24,7 +24,7 @@ Telegram Desktop → SOCKS5 (127.0.0.1:1080) → TG WS Proxy → WSS → Telegra
 
 ## 🚀 Быстрый старт
 
-### Windows
+### Windоws
 
 Перейдите на страницу релизов и скачайте **`TgWsProxy_windows.exe`**. Он собирается из открытого исходного кода.
 
